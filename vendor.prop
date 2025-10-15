@@ -1,6 +1,9 @@
 # Bluetooth
 bluetooth.device.default_name=OnePlus 13R
 
+# Device name
+ro.product.marketname=OnePlus 13R
+
 # Graphics
 debug.sf.auto_latch_unsignaled=1
 ro.surface_flinger.set_display_power_timer_ms=1000
