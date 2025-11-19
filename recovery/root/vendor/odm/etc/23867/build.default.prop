@@ -6,5 +6,8 @@ bluetooth.device.default_name=OnePlus 13R
 # Device name
 ro.product.marketname=OnePlus 13R
 
+# NFC
+persist.vendor.nfc.config_file_name=libnfc-mtp-SN220.conf_23867
+
 # USB
 vendor.usb.product_string=OnePlus 13R

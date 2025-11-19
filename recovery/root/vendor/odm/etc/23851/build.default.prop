@@ -10,5 +10,8 @@ ro.vendor.oplus.regionmark=CN
 # Device name
 ro.product.marketname=OnePlus Ace 5
 
+# NFC
+persist.vendor.nfc.config_file_name=libnfc-mtp-SN220.conf_23851
+
 # USB
 vendor.usb.product_string=OnePlus Ace 5
