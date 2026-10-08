@@ -73,7 +73,9 @@ PRODUCT_SHIPPING_API_LEVEL := 35
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
-    $(LOCAL_PATH)
+    $(LOCAL_PATH) \
+    hardware/nxp/keymint/generic \
+    hardware/nxp/weaver/generic
 
 # Telephony
 PRODUCT_PACKAGES += \
